@@ -1,6 +1,6 @@
 module github.com/almalii/swagger-contracts
 
-go 1.21.0
+go 1.20
 
 require (
 	github.com/go-openapi/errors v0.20.4
